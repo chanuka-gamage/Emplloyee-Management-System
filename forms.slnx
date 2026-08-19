@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../EMAPP/EMAPP.vdproj" Type="Installer" />
+  <Project Path="../EmployeeAPP/EmployeeAPP.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="forms.csproj" Id="62440e13-bc88-4466-a62e-e48445217053" />
+</Solution>
